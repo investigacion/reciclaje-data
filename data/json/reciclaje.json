@@ -1,0 +1,732 @@
+{
+	"101": {
+		"name": "San José",
+		"tonsPerMonth": "9296.5",
+		"tonsRecoverablePerMonth": "96.5",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "39%"
+	},
+	"102": {
+		"name": "Escazú",
+		"tonsPerMonth": "1952",
+		"tonsRecoverablePerMonth": "97",
+		"percentageRecovarablePerMonth": "5%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "64%"
+	},
+	"103": {
+		"name": "Desamparados",
+		"tonsPerMonth": "4200",
+		"tonsRecoverablePerMonth": "100",
+		"percentageRecovarablePerMonth": "2%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "47%"
+	},
+	"104": {
+		"name": "Puriscal",
+		"tonsPerMonth": "260",
+		"tonsRecoverablePerMonth": "25",
+		"percentageRecovarablePerMonth": "10%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "55%"
+	},
+	"105": {
+		"name": "Tarrazú",
+		"tonsPerMonth": "500",
+		"tonsRecoverablePerMonth": "6",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "56%"
+	},
+	"106": {
+		"name": "Aserrí",
+		"tonsPerMonth": "840",
+		"tonsRecoverablePerMonth": "3",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "37%"
+	},
+	"107": {
+		"name": "Mora",
+		"tonsPerMonth": "420",
+		"tonsRecoverablePerMonth": "8",
+		"percentageRecovarablePerMonth": "2%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "50%"
+	},
+	"108": {
+		"name": "Goicoechea",
+		"tonsPerMonth": "3200",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "40%"
+	},
+	"109": {
+		"name": "Santa Ana",
+		"tonsPerMonth": "1300",
+		"tonsRecoverablePerMonth": "60",
+		"percentageRecovarablePerMonth": "5%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "55%"
+	},
+	"110": {
+		"name": "Alajuelita",
+		"tonsPerMonth": "1400",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "34%"
+	},
+	"111": {
+		"name": "Vázquez de Coronado",
+		"tonsPerMonth": "1233",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "si",
+		"percentLocationsSeparate": "47%"
+	},
+	"112": {
+		"name": "Acosta",
+		"tonsPerMonth": "130",
+		"tonsRecoverablePerMonth": "4.4",
+		"percentageRecovarablePerMonth": "3%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "49%",
+		"notes": "*El 8 de julio de 2013 se corrigió la cifra de reciclaje de Acosta. Vilma Naranjo, encargada del grupo que da el servicio a la Municipalidad, mostró que de febrero a junio, las toneladas recicladas por mes son en promedio 4,4 y no 40 como originalmente se consignó."
+	},
+	"113": {
+		"name": "Tibás",
+		"tonsPerMonth": "1688",
+		"tonsRecoverablePerMonth": "15",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "43%"
+	},
+	"114": {
+		"name": "Moravia",
+		"tonsPerMonth": "341",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "46%"
+	},
+	"115": {
+		"name": "Montes de Oca",
+		"tonsPerMonth": "1400",
+		"tonsRecoverablePerMonth": "13",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "49%"
+	},
+	"116": {
+		"name": "Turrubares",
+		"tonsPerMonth": "23",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "no",
+		"percentLocationsSeparate": "56%"
+	},
+	"117": {
+		"name": "Dota",
+		"tonsPerMonth": "40",
+		"tonsRecoverablePerMonth": "18",
+		"percentageRecovarablePerMonth": "45%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "76%"
+	},
+	"118": {
+		"name": "Curridabat",
+		"tonsPerMonth": "1666",
+		"tonsRecoverablePerMonth": "100",
+		"percentageRecovarablePerMonth": "6%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "52%"
+	},
+	"119": {
+		"name": "Pérez Zeledón",
+		"tonsPerMonth": "1080",
+		"tonsRecoverablePerMonth": "36",
+		"percentageRecovarablePerMonth": "3%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "48%"
+	},
+	"120": {
+		"name": "León Cortés Castro",
+		"tonsPerMonth": "125",
+		"tonsRecoverablePerMonth": "30",
+		"percentageRecovarablePerMonth": "24%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "57%"
+	},
+	"201": {
+		"name": "Alajuela",
+		"tonsPerMonth": "5910",
+		"tonsRecoverablePerMonth": "60",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "39%"
+	},
+	"202": {
+		"name": "San Ramón",
+		"tonsPerMonth": "1536",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "41%"
+	},
+	"203": {
+		"name": "Grecia",
+		"tonsPerMonth": "1250",
+		"tonsRecoverablePerMonth": "5",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "42%"
+	},
+	"204": {
+		"name": "San Mateo",
+		"tonsPerMonth": "80",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "35%"
+	},
+	"205": {
+		"name": "Atenas",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "51%"
+	},
+	"206": {
+		"name": "Naranjo",
+		"tonsPerMonth": "665",
+		"tonsRecoverablePerMonth": "5",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "51%"
+	},
+	"207": {
+		"name": "Palmares",
+		"tonsPerMonth": "700",
+		"tonsRecoverablePerMonth": "3",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "34%"
+	},
+	"208": {
+		"name": "Poás",
+		"tonsPerMonth": "465",
+		"tonsRecoverablePerMonth": "6",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "34%"
+	},
+	"209": {
+		"name": "Orotina",
+		"tonsPerMonth": "336",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "25%"
+	},
+	"210": {
+		"name": "San Carlos",
+		"tonsPerMonth": "2700",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "45%"
+	},
+	"211": {
+		"name": "Zarcero",
+		"tonsPerMonth": "139",
+		"tonsRecoverablePerMonth": "47",
+		"percentageRecovarablePerMonth": "34%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "68%"
+	},
+	"212": {
+		"name": "Valverde Vega",
+		"tonsPerMonth": "450",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "no",
+		"percentLocationsSeparate": "41%"
+	},
+	"213": {
+		"name": "Upala",
+		"tonsPerMonth": "240",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "no",
+		"percentLocationsSeparate": "38%"
+	},
+	"214": {
+		"name": "Los Chiles",
+		"tonsPerMonth": "150",
+		"tonsRecoverablePerMonth": "0.5",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "40%"
+	},
+	"215": {
+		"name": "Guatuso",
+		"tonsPerMonth": "132",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "40%"
+	},
+	"301": {
+		"name": "Cartago",
+		"tonsPerMonth": "2568",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "39%"
+	},
+	"302": {
+		"name": "Paraíso",
+		"tonsPerMonth": "1000",
+		"tonsRecoverablePerMonth": "2.5",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "32%"
+	},
+	"303": {
+		"name": "La Unión",
+		"tonsPerMonth": "1920",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "38%"
+	},
+	"304": {
+		"name": "Jiménez",
+		"tonsPerMonth": "52",
+		"tonsRecoverablePerMonth": "32",
+		"percentageRecovarablePerMonth": "62%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "67%"
+	},
+	"305": {
+		"name": "Turrialba",
+		"tonsPerMonth": "1800",
+		"tonsRecoverablePerMonth": "22",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "si",
+		"percentLocationsSeparate": "36%"
+	},
+	"306": {
+		"name": "Alvarado",
+		"tonsPerMonth": "122",
+		"tonsRecoverablePerMonth": "9",
+		"percentageRecovarablePerMonth": "7%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "58%"
+	},
+	"307": {
+		"name": "Oreamuno",
+		"tonsPerMonth": "833",
+		"tonsRecoverablePerMonth": "45",
+		"percentageRecovarablePerMonth": "5%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "41%"
+	},
+	"308": {
+		"name": "El Guarco",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "35%"
+	},
+	"401": {
+		"name": "Heredia",
+		"tonsPerMonth": "3200",
+		"tonsRecoverablePerMonth": "12",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "45%"
+	},
+	"402": {
+		"name": "Barva",
+		"tonsPerMonth": "694",
+		"tonsRecoverablePerMonth": "17",
+		"percentageRecovarablePerMonth": "2%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "49%"
+	},
+	"403": {
+		"name": "Santo Domingo",
+		"tonsPerMonth": "1048",
+		"tonsRecoverablePerMonth": "40",
+		"percentageRecovarablePerMonth": "4%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "57%"
+	},
+	"404": {
+		"name": "Santa Bárbara",
+		"tonsPerMonth": "620",
+		"tonsRecoverablePerMonth": "6",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "44%"
+	},
+	"405": {
+		"name": "San Rafael",
+		"tonsPerMonth": "970",
+		"tonsRecoverablePerMonth": "80",
+		"percentageRecovarablePerMonth": "8%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "57%"
+	},
+	"406": {
+		"name": "San Isidro",
+		"tonsPerMonth": "417",
+		"tonsRecoverablePerMonth": "7",
+		"percentageRecovarablePerMonth": "2%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "52%"
+	},
+	"407": {
+		"name": "Belén",
+		"tonsPerMonth": "600",
+		"tonsRecoverablePerMonth": "11",
+		"percentageRecovarablePerMonth": "2%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "62%"
+	},
+	"408": {
+		"name": "Flores",
+		"tonsPerMonth": "525",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "47%"
+	},
+	"409": {
+		"name": "San Pablo",
+		"tonsPerMonth": "644",
+		"tonsRecoverablePerMonth": "6",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "46%"
+	},
+	"410": {
+		"name": "Sarapiquí",
+		"tonsPerMonth": "1290",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "38%"
+	},
+	"501": {
+		"name": "Liberia",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "28%"
+	},
+	"502": {
+		"name": "Nicoya",
+		"tonsPerMonth": "38",
+		"tonsRecoverablePerMonth": "11",
+		"percentageRecovarablePerMonth": "29%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "44%"
+	},
+	"503": {
+		"name": "Santa Cruz",
+		"tonsPerMonth": "1100",
+		"tonsRecoverablePerMonth": "33",
+		"percentageRecovarablePerMonth": "3%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "si",
+		"percentLocationsSeparate": "38%"
+	},
+	"504": {
+		"name": "Bagaces",
+		"tonsPerMonth": "166",
+		"tonsRecoverablePerMonth": "0.8",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "26%"
+	},
+	"505": {
+		"name": "Carrillo",
+		"tonsPerMonth": "789",
+		"tonsRecoverablePerMonth": "182",
+		"percentageRecovarablePerMonth": "23%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "si",
+		"percentLocationsSeparate": "34%"
+	},
+	"506": {
+		"name": "Cañas",
+		"tonsPerMonth": "420",
+		"tonsRecoverablePerMonth": "7",
+		"percentageRecovarablePerMonth": "2%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "23%"
+	},
+	"507": {
+		"name": "Abangares",
+		"tonsPerMonth": "168",
+		"tonsRecoverablePerMonth": "5",
+		"percentageRecovarablePerMonth": "3%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "27%"
+	},
+	"508": {
+		"name": "Tilarán",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "42%"
+	},
+	"509": {
+		"name": "Nandayure",
+		"tonsPerMonth": "83",
+		"tonsRecoverablePerMonth": "0.3",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "48%"
+	},
+	"510": {
+		"name": "La Cruz",
+		"tonsPerMonth": "300",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "no",
+		"percentLocationsSeparate": "24%"
+	},
+	"511": {
+		"name": "Hojancha",
+		"tonsPerMonth": "40",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "55%"
+	},
+	"601": {
+		"name": "Puntarenas",
+		"tonsPerMonth": "2210",
+		"tonsRecoverablePerMonth": "3",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "29%"
+	},
+	"602": {
+		"name": "Esparza",
+		"tonsPerMonth": "440",
+		"tonsRecoverablePerMonth": "5",
+		"percentageRecovarablePerMonth": "1%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "29%"
+	},
+	"603": {
+		"name": "Buenos Aires",
+		"tonsPerMonth": "408",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "no",
+		"percentLocationsSeparate": "38%"
+	},
+	"604": {
+		"name": "Montes de Oro",
+		"tonsPerMonth": "227",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "28%"
+	},
+	"605": {
+		"name": "Osa",
+		"tonsPerMonth": "200",
+		"tonsRecoverablePerMonth": "20",
+		"percentageRecovarablePerMonth": "10%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "34%"
+	},
+	"606": {
+		"name": "Aguirre",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "36%"
+	},
+	"607": {
+		"name": "Golfito",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "39%"
+	},
+	"608": {
+		"name": "Coto Brus",
+		"tonsPerMonth": "280",
+		"tonsRecoverablePerMonth": "11",
+		"percentageRecovarablePerMonth": "4%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "35%"
+	},
+	"609": {
+		"name": "Parrita",
+		"tonsPerMonth": "264",
+		"tonsRecoverablePerMonth": "0,6",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "no",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "29%"
+	},
+	"610": {
+		"name": "Corredores",
+		"tonsPerMonth": "720",
+		"tonsRecoverablePerMonth": "44",
+		"percentageRecovarablePerMonth": "6%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "39%"
+	},
+	"611": {
+		"name": "Garabito",
+		"tonsPerMonth": "970",
+		"tonsRecoverablePerMonth": "45",
+		"percentageRecovarablePerMonth": "5%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "33%"
+	},
+	"701": {
+		"name": "Limón",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "30%"
+	},
+	"702": {
+		"name": "Pococí",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "49%"
+	},
+	"703": {
+		"name": "Siquirres",
+		"tonsPerMonth": "320",
+		"tonsRecoverablePerMonth": "5",
+		"percentageRecovarablePerMonth": "2%",
+		"separateAtCollection": "sí",
+		"recyclingProgram": "si",
+		"percentLocationsSeparate": "47%"
+	},
+	"704": {
+		"name": "Talamanca",
+		"tonsPerMonth": "196",
+		"tonsRecoverablePerMonth": "12",
+		"percentageRecovarablePerMonth": "6%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "48%"
+	},
+	"705": {
+		"name": "Matina",
+		"tonsPerMonth": "400",
+		"tonsRecoverablePerMonth": "0",
+		"percentageRecovarablePerMonth": "0%",
+		"separateAtCollection": "no",
+		"recyclingProgram": "sí",
+		"percentLocationsSeparate": "34%"
+	},
+	"706": {
+		"name": "Guácimo",
+		"tonsPerMonth": "nd",
+		"tonsRecoverablePerMonth": "nd",
+		"percentageRecovarablePerMonth": "nd",
+		"separateAtCollection": "nd",
+		"recyclingProgram": "nd",
+		"percentLocationsSeparate": "42%"
+	}
+}
