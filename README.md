@@ -8,7 +8,7 @@ Por [Matthew Caruana Galizia](https://twitter.com/mcaruanagalizia) y [Hassel Fal
 
 ## Aplicación ##
 
-Echa un vistazo al proyecto [Iniciativas](https://github.com/investigacion/reciclaje).
+Echa un vistazo al proyecto [Reciclaje](https://github.com/investigacion/reciclaje).
 
 ## Licencia ##
 
